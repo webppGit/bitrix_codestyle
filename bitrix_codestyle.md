@@ -164,7 +164,7 @@ require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/classes/general/cap
 
 ## <a id="naming"></a>Правила именования
 
-Следующие правила именования наследуют и расширяют правила, описанные в [PHP code style](./phpcs.html)
+Следующие правила именования наследуют и расширяют правила, описанные в PHP code style PSR 1/2/3.
 
 * Массивы **СЛЕДУЕТ** именовать с префиксом `ar`, при этом общий формат написание идентификатора - camelCase. Например, `$arResult`, `$arModifiedUsers`
 
